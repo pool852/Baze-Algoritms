@@ -1,0 +1,13 @@
+﻿"BazeAlg9.exe" (Win32). Загружено "C:\my projects\Microsoft VS Code\CC++\BazeAlg9\x64\Debug\BazeAlg9.exe". Символы загружены.
+"BazeAlg9.exe" (Win32). Загружено "C:\Windows\System32\ntdll.dll". 
+"BazeAlg9.exe" (Win32). Загружено "C:\Windows\System32\kernel32.dll". 
+"BazeAlg9.exe" (Win32). Загружено "C:\Windows\System32\KernelBase.dll". 
+"BazeAlg9.exe" (Win32). Загружено "C:\Windows\System32\vcruntime140d.dll". 
+"BazeAlg9.exe" (Win32). Загружено "C:\Windows\System32\ucrtbased.dll". 
+Поток 0x14d4 завершился с кодом 0 (0x0).
+"BazeAlg9.exe" (Win32). Загружено "C:\Windows\System32\kernel.appcore.dll". 
+"BazeAlg9.exe" (Win32). Загружено "C:\Windows\System32\msvcrt.dll". 
+"BazeAlg9.exe" (Win32). Загружено "C:\Windows\System32\rpcrt4.dll". 
+Поток 0x27c4 завершился с кодом 0 (0x0).
+Поток 0x2de4 завершился с кодом 0 (0x0).
+Программа "[19540] BazeAlg9.exe" завершилась с кодом 0 (0x0).
