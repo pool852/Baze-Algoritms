@@ -1,0 +1,4 @@
+﻿  Alg4.c
+C:\my projects\Microsoft VS Code\CC++\BazeAlg4\BazeAlg4\Alg4.c(29,27): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\my projects\Microsoft VS Code\CC++\BazeAlg4\BazeAlg4\Alg4.c(39,23): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  BazeAlg4.vcxproj -> C:\my projects\Microsoft VS Code\CC++\BazeAlg4\x64\Debug\BazeAlg4.exe

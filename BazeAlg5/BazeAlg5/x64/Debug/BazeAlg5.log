@@ -1,0 +1,5 @@
+﻿  Alg5.c
+C:\my projects\Microsoft VS Code\CC++\BazeAlg5\BazeAlg5\Alg5.c(9,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\my projects\Microsoft VS Code\CC++\BazeAlg5\BazeAlg5\Alg5.c(27,24): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\my projects\Microsoft VS Code\CC++\BazeAlg5\BazeAlg5\Alg5.c(36,23): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  BazeAlg5.vcxproj -> C:\my projects\Microsoft VS Code\CC++\BazeAlg5\x64\Debug\BazeAlg5.exe
